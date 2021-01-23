@@ -1,4 +1,4 @@
-# StreakOfLives
+# Streak of lives
 I have several buttons and a life bar on the stage.
 When you press one button, the character is healed for 10, when you press another button, damage is done for 10.
 ***
